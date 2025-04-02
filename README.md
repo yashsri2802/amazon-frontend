@@ -19,7 +19,7 @@ CSS - Styling and layout
 
 # 📸 Preview :
 
-![Amazon Clone Screenshot](Preview.png)
+![Amazon Clone Screenshot](images/Preview.png)
 
 # 📂 Installation & Usage :
 Clone the repository -
