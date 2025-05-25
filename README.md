@@ -22,15 +22,17 @@ CSS - Styling and layout
 ![Amazon Clone Screenshot](images/Preview.png)
 
 # 📂 Installation & Usage :
-Clone the repository -
-git clone https://github.com/yashsri2802/amazon-clone.git
+1. **Clone the repository** -
+   ```bash
+   git clone https://github.com/yashsri2802/amazon-frontend.git
 
-Navigate to the project folder -
-cd amazon-clone
+2. **Navigate to the project folder** -
+   ```bash
+   cd amazon-frontend
 
-Open index.html in your browser
+3. **Open index.html in your browser.**
 
-Or use Live Server in VS Code for a better development experience.
+4. **Or use Live Server in VS Code for a better development experience.**
 
 # 📌 Future Enhancements :
 
